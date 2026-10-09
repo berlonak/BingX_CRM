@@ -135,3 +135,7 @@ data/                     runtime database location (not versioned)
 - "Balance" is BingX's `balanceVolume` (current net assets). It is not necessarily the
   amount available for withdrawal.
 - Deposit history is limited to BingX's rolling 90-day window.
+
+## License
+
+Copyright 2026 berlonak. Licensed under the [Apache License, Version 2.0](LICENSE).
